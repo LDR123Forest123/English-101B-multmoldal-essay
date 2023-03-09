@@ -22,3 +22,9 @@ font-size: 100%;
 text-align: center;
 
 }
+header {
+    color: Red;
+    font-size: 300%;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
